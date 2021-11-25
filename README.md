@@ -25,7 +25,7 @@ Welcome to my Github, have a browse around!
 I am looking forward to showcase my skills with the uploaded code and if You would like to have me working at your company you can reach me on:
  <div align="center"> 
   <a href="https://www.linkedin.com/in/david-paulos-a2b1191b9/" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:davidpaulos96@gmail.com" target="_blank" title="Email me at davidpaulos96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:david.emanuel.paulos@gmail.com" target="_blank" title="Email me at david.emanuel.paulos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  
  ## 
