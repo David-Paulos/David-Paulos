@@ -1,11 +1,7 @@
 <!----------------------------------------------------------------Responsive Stats Boards----------------------------------------------------------------------->
-<div> 
- <a href="https://github.com/theodinstudent">
- <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true" />
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=216aff&icon_color=216aff&hide_border=true&custom_title=Languages" />
-  <img height=180em align="center" src="https://github-profile-trophy.vercel.app/?username=theodinstudent&margin-w=37&no-frame=true&theme=flat&no-bg=true" />
-</div>
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Paulos&layout=compact&langs_count=20&bg_color=ffffff&title_color=216aff&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-Paulos&margin-w=37&no-frame=true&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
  
  <div align="center">
