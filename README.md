@@ -1,5 +1,5 @@
 <!----------------------------------------------------------------Responsive Stats Boards----------------------------------------------------------------------->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=David-Paulos&layout=compact&langs_count=20&bg_color=ffffff&title_color=216aff&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=David-Paulos&layout=compact&langs_count=10&bg_color=ffffff&title_color=216aff&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=David-Paulos&margin-w=37&no-frame=true&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
@@ -22,7 +22,7 @@
  
 #  <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/megaphone.png" /> Hello World!
 Welcome to my Github, have a browse around!
-I am looking forward to showcase my skills with the uploaded code and if You would like to have me working at your company you can reach me on:
+I am looking forward to showcase my skills with the uploaded code and if you would like to have me working at your company you can reach me by clicking on the following buttons:
  <div align="center"> 
   <a href="https://www.linkedin.com/in/david-paulos-a2b1191b9/" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:david.emanuel.paulos@gmail.com" target="_blank" title="Email me at david.emanuel.paulos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -57,7 +57,11 @@ I am looking forward to showcase my skills with the uploaded code and if You wou
 <div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/SBJCRCZFJLEE"><img title="Google Data Analytics Professional Specialization" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 </div>
  
+ ##
+<div align="center"> 
+     
+    By clicking on the Google Icon displayed above you may view my certificate.
 
-
+</div>
  
  
