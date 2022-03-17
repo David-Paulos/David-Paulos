@@ -1,8 +1,8 @@
-<!----------------------------------------------------------------Responsive Stats Boards----------------------------------------------------------------------->
+<!----------------------------------------------------------------Responsive Stats Boards------------------------------------------------------------->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=david-paulos&layout=compact&langs_count=10&bg_color=ffffff&title_color=216aff&hide=HTML&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=david-paulos&margin-w=37&no-frame=true&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
+<!------------------------------------------------------------------Technologies I Know----------------------------------------------------------------> 
  
  <div align="center">
   <img align="center" height="64" width="64" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -17,7 +17,7 @@
  </div>
 
  ##
-<!----------------------------------------------------------Greetings card & ConnectionBadges--------------------------------------------------------------------> 
+<!----------------------------------------------------------Greetings card & ConnectionBadges---------------------------------------------------------> 
  
  
 #  <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/megaphone.png" /> Hello World!
@@ -29,7 +29,7 @@ I am looking forward to showcase my skills with the uploaded code and if you wou
  </div>
  
  ## 
-<!---------------------------------------------------------------------Current Goals-----------------------------------------------------------------------------> 
+<!---------------------------------------------------------------------Current Goals-------------------------------------------------------------------> 
 
  ### <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/learning.png"/> Currently learning:
  * Mozilla Web Developer Program
@@ -47,7 +47,7 @@ I am looking forward to showcase my skills with the uploaded code and if you wou
   <img align="center" height="64" width="64" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
  </div>
 
-<!-----------------------------------------------------------------------Certificates----------------------------------------------------------------------------> 
+<!-----------------------------------------------------------------------Certificates------------------------------------------------------------------> 
 ## 
 
 ### <img align="center" src="https://img.icons8.com/nolan/64/diploma.png" /> Achievements:
