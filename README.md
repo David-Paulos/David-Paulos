@@ -1,6 +1,6 @@
 <!----------------------------------------------------------------Responsive Stats Boards----------------------------------------------------------------------->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=David-Paulos&layout=compact&langs_count=10&bg_color=ffffff&title_color=216aff&hide=HTML&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=David-Paulos&margin-w=37&no-frame=true&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=david-paulos&layout=compact&langs_count=10&bg_color=ffffff&title_color=216aff&hide=HTML&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=david-paulos&margin-w=37&no-frame=true&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
  
