@@ -32,20 +32,13 @@ I am looking forward to showcase my skills with the uploaded code and if you wou
 <!---------------------------------------------------------------------Current Goals-------------------------------------------------------------------> 
 
  ### <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/learning.png"/> Currently learning:
- * Mozilla Web Developer Program
+ 
  <div align="center">
   <img align="center" height="64" width="64" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="64" width="64" title="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="64" width="64" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="64" width="64" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="64" width="64" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" height="64" width="64" title="Ember.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" />
-  <img align="center" height="64" width="64" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img align="center" height="64" width="64" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" />
-  <img align="center" height="64" width="64" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="64" width="64" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" height="64" width="64" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
- </div>
 
 <!-----------------------------------------------------------------------Certificates------------------------------------------------------------------> 
 ## 
