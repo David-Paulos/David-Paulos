@@ -23,7 +23,7 @@
 #  <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/megaphone.png" /> Hello World!
 Welcome to my Github, have a browse around!
  <div align="center"> 
-  <a href="https://www.linkedin.com/in/david-paulos-a2b1191b9/" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/david-paulos-web-developer" target="_blank" title="My LinkedIn!" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:david.emanuel.paulos@gmail.com" target="_blank" title="Email me at david.emanuel.paulos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  
