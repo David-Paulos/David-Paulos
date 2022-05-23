@@ -44,15 +44,23 @@ Welcome to my Github, have a browse around!
 
 ### <img align="center" src="https://img.icons8.com/nolan/64/diploma.png" /> Achievements:
 
-* On November 2021, I conluded my Google Data Analytics Professional Certificate 
+ On November 2021, I conluded my Google Data Analytics Professional Certificate 
 
-<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/SBJCRCZFJLEE"><img title="Google Data Analytics Professional Specialization" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/SBJCRCZFJLEE"><img title="Google Data Analytics Professional Certificate" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+</div>
+ 
+\
+&nbsp;
+ 
+  On April 2022, I conluded my Google UX Design Professional Certificate 
+
+<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/Y4P5KHLBA4CX"><img title="Google Data UX Design Professional Certificate" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 </div>
  
  ##
 <div align="center"> 
      
-    By clicking on the Google Icon displayed above you may view my certificate.
+    By clicking on the Google Icons displayed above you may view my certificates.
 
 </div>
  
