@@ -54,7 +54,7 @@ Welcome to my Github, have a browse around!
  
   On April 2022, I conluded my Google UX Design Professional Certificate 
 
-<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/Y4P5KHLBA4CX"><img title="Google Data UX Design Professional Certificate" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+<div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Y4P5KHLBA4CX" target="_blank"><img title="Google Data UX Design Professional Certificate" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 </div>
  
  ##
