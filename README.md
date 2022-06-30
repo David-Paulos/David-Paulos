@@ -18,7 +18,7 @@
 
  ##
 <!----------------------------------------------------------Greetings card & ConnectionBadges---------------------------------------------------------> 
- 
+ <div align="center"></>
  
 ###  <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/megaphone.png" /> Contact me
  <div align="center"> 
@@ -28,6 +28,7 @@
  
  ## 
 <!---------------------------------------------------------------------Current Goals-------------------------------------------------------------------> 
+<div align="center"></>
 
  ### <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/learning.png"/> Currently learning:
  
