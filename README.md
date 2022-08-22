@@ -1,6 +1,4 @@
 <!----------------------------------------------------------------Responsive Stats Boards------------------------------------------------------------->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Paulos&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=David-Paulos&langs_count=10&bg_color=ffffff&title_color=216aff&hide=HTML,CSS&icon_color=216aff&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 <!----------------------------------------------------------Greetings card & ConnectionBadges---------------------------------------------------------> 
